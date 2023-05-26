@@ -1,5 +1,5 @@
 # pippi-live
 because why not
-https://raw.githubusercontent.com/101pippi/Pippi-TV/main/live
-(https://raw.githubusercontent.com/101pippi/Pippi-TV/main/live)
-[https://raw.githubusercontent.com/101pippi/Pippi-TV/main/live]
+
+https://www.youtube.com/watch?v=MpNn9A-8atw
+[https://www.youtube.com/watch?v=MpNn9A-8atw]
